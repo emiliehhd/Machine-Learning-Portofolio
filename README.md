@@ -32,7 +32,7 @@ The projects are organized by domain to reflect specific technical competencies:
 
 ---
 
-## 🛠️ Requirements & Setup
+## Requirements & Setup
 
 To run these notebooks locally, it is recommended to use a virtual environment:
 
