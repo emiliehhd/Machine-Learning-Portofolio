@@ -6,7 +6,7 @@ This directory contains a progression of projects focusing on Text Mining and Se
 
 ### 0. [Data Preprocessing & Exploration (EDA)](./01_Preprocessing_EDA.ipynb)
 **Goal:** Preprocess the data and create intermediate data visualization.
-* **Key Tasks:** Identifying and handling outliers, Visualization.
+* **Key Tasks:** Identifying and handling outliers, Handling missing values, Visualization.
 * **Evaluation:** Interquartile Range (IQR) method, Boxplot, and Correlation Heatmap.
 * **Tools:** `Pandas`, `Matplotlib`, `Seaborn`.
 
