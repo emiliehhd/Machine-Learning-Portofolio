@@ -4,14 +4,14 @@ This directory contains a progression of projects focusing on Text Mining and Se
 
 ## 📂 Contents
 
-### 0. [Data Preprocessing & Exploration (EDA)](./01_Preprocessing_EDA.ipynb)
-**Goal:** Preprocess the data and create intermediate data visualization.
-* **Key Tasks:** Identifying and handling outliers, Handling missing values, Visualization.
-* **Evaluation:** Interquartile Range (IQR) method, Boxplot, and Correlation Heatmap.
+### 1. [Data Preprocessing & Exploration (EDA)](./01_Preprocessing_EDA.ipynb)
+**Goal:** Predict wine quality based on physico-chemical properties through exploratory data analysis (EDA) and statistical examination.
+* **Key Tasks:** Load and explore data, Clean data, Distribution and correlation analysis.
+* **Algorithms and Methods:** Interquartile Range (IQR) method, Multidimensional visualization.
 * **Tools:** `Pandas`, `Matplotlib`, `Seaborn`.
 * [Execute notebook on Google Colab](https://colab.research.google.com/github/emiliehhd/Machine-Learning-Portofolio/blob/main/NLP/01_Preprocessing_EDA.ipynb)
 
-### 1. 
+### 0. 
 **Goal:** Master the art of cleaning raw text data before feeding it into machine learning models.
 * **Key Tasks:** Load data, Stop-word removal, Lemmatization, and Stemming.
 * **Analysis:** Word frequency distributions, N-grams analysis, and WordClouds.
