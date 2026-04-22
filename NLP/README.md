@@ -11,11 +11,6 @@ This directory contains a progression of projects focusing on Text Mining and Se
 * **Tools:** `Pandas`, `Matplotlib`, `Seaborn`.
 * [Execute notebook on Google Colab](https://colab.research.google.com/github/emiliehhd/Machine-Learning-Portofolio/blob/main/NLP/01_Preprocessing_EDA.ipynb)
 
-### 0. 
-**Goal:** Master the art of cleaning raw text data before feeding it into machine learning models.
-* **Key Tasks:** Load data, Stop-word removal, Lemmatization, and Stemming.
-* **Analysis:** Word frequency distributions, N-grams analysis, and WordClouds.
-* **Tools:** `NLTK`, `SpaCy`, `Matplotlib`.
 
 ### 2. [Movie Review Classification (Baseline Models)](./02_Movie_Review_Classification.ipynb)
 **Goal:** Build a robust sentiment analysis baseline using traditional Machine Learning.
